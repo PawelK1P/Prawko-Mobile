@@ -4,7 +4,7 @@ Prawko Mobile
 
 Aplikacja zawiera m.in.:
 
-**- Symulacja stanu technicznego:** Użytkownik będzie miał za zadanie wskazać lokalizację płynów eksploatacyjnych oraz świateł w pojeździe, dokładnie tak, jak wymaga tego egzamin państwowy. 
+**- Symulacja stanu technicznego:** Użytkownik będzie miał za zadanie wskazać lokalizację płynów eksploatacyjnych oraz świateł w pojeździe, dokładnie tak, jak wymaga tego egzamin państwowy. <br>
 **- Testy pierwszeństwa:** Klient będzie mógł sprawdzić swoje umiejętności w ocenie, kto ma pierwszeństwo na skrzyżowaniach, co jest kluczowe w praktyce jazdy.
 **- Egzamin teoretyczny:** Użytkownik będzie mógł przystąpić do egzaminu teoretycznego, który będzie przypominał format egzaminu państwowego, umożliwiając ocenę swojego przygotowania.
 **- Statystyki:** Sekcja ta pomoże kursantom zidentyfikować najczęściej popełniane błędy, co pozwoli na skuteczniejsze doskonalenie umiejętności.
