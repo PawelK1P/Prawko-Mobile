@@ -11,3 +11,4 @@ Aplikacja zawiera m.in.:
 **- Materiały edukacyjne:** Użytkownicy będą mieli dostęp do różnorodnych materiałów szkoleniowych, w tym informacji o znakach drogowych, zasadach udzielania pierwszej pomocy, taryfikatorze mandatów, technikach kierowania pojazdem oraz budowie samochodu. <br>
 
 Prawko Mobile to kompleksowe narzędzie, które wspiera kursantów w drodze do uzyskania prawa jazdy, łącząc teorię z praktycznymi umiejętnościami.
+<br> <a href="https://www.flaticon.com/free-icons/driving-school" title="driving school icons">Driving school icons created by Freepik - Flaticon</a>
