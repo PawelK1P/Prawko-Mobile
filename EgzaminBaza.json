@@ -1,0 +1,1910 @@
+[
+    {
+        "Pytanie": "Jakiej kategorii prawo jazdy jest wymagane, gdy chcesz kierować czterokołowcem innym niż lekki?",
+        "Odpowiedź A": "B1.",
+        "Odpowiedź B": "A.",
+        "Odpowiedź C": "AM.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych obowiązków dotyczy właściciela samochodu?",
+        "Odpowiedź A": "Obowiązek wykonywania okresowych przeglądów technicznych pojazdu.",
+        "Odpowiedź B": "Zawarcie umowy ubezpieczenia NW.",
+        "Odpowiedź C": "Zawarcie umowy ubezpieczenia Autocasco.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kiedy powinno się sprawdzać ciśnienie w ogumieniu samochodu?",
+        "Odpowiedź A": "Bezpośrednio przed rozpoczęciem podróży.",
+        "Odpowiedź B": "Po zakończeniu jazdy.",
+        "Odpowiedź C": "Minimum 24 godziny przed wyjazdem.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakie zasady obowiązują podczas przewożenia ładunku w przyczepie ciągniętej przez samochód?",
+        "Odpowiedź A": "Ładunek może częściowo zasłaniać światła przyczepy.",
+        "Odpowiedź B": "Ładunek nie może wpływać negatywnie na stabilność zestawu pojazdów.",
+        "Odpowiedź C": "Nie ma potrzeby zabezpieczania ładunku przed jego przesuwaniem.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak należy przygotować ładunek do transportu w przyczepie ciągniętej przez samochód osobowy?",
+        "Odpowiedź A": "Należy go odpowiednio unieruchomić, by zapobiec przemieszczaniu się podczas jazdy.",
+        "Odpowiedź B": "Można go ułożyć swobodnie, bez zabezpieczeń.",
+        "Odpowiedź C": "Nie trzeba zabezpieczać ładunku, jeśli planujemy jechać z małą prędkością.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak prawidłowo przewozić materiały sypkie w przyczepie ciągniętej przez samochód osobowy?",
+        "Odpowiedź A": "Luźno wsypane, o ile ich poziom nie przekracza wysokości burt.",
+        "Odpowiedź B": "Bez specjalnego zabezpieczenia, jeśli nie przekraczasz 30 km/h.",
+        "Odpowiedź C": "Szczelnie zamknięte lub przykryte, aby zapobiec rozsypywaniu się podczas jazdy.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak powinieneś zabezpieczyć urządzenie, którym zamocowałeś ładunek w przyczepie ciągniętej przez samochód osobowy?",
+        "Odpowiedź A": "Tak, żeby mocowanie nie rozluźniło się.",
+        "Odpowiedź B": "Może swobodnie zwisać z przyczepy.",
+        "Odpowiedź C": "Nie musi być zabezpieczone przed spadnięciem podczas jazdy.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jaki sposób powinien być umieszczony ładunek na samochodzie osobowym?",
+        "Odpowiedź A": "Może nieznacznie zasłaniać tablice rejestracyjne.",
+        "Odpowiedź B": "Może zasłaniać tylne światło przeciwmgłowe.",
+        "Odpowiedź C": "Nie może ograniczać widoczności drogi.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak umieścisz bagaż w samochodzie osobowym?",
+        "Odpowiedź A": "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika.",
+        "Odpowiedź B": "W dowolny sposób.",
+        "Odpowiedź C": "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jaki sposób umieścisz ładunek na przyczepie samochodu osobowego?",
+        "Odpowiedź A": "Tak, aby nie zasłaniał świateł przyczepy.",
+        "Odpowiedź B": "Umieszczę go po jednej stronie przyczepy.",
+        "Odpowiedź C": "Umieszczę go zawsze w tylnej części przyczepy.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czego nie możesz robić kierując samochodem osobowym?",
+        "Odpowiedź A": "Ciągnąć za pojazdem osoby na sankach.",
+        "Odpowiedź B": "Korzystać z radia CB.",
+        "Odpowiedź C": "Przewozić dziecka w foteliku ochronnym na przednim siedzeniu.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych sposobów przewożenia gaśnicy w samochodzie osobowym jest właściwy?",
+        "Odpowiedź A": "Gaśnica umieszczona jest na tylnej półce.",
+        "Odpowiedź B": "Gaśnica umieszczona jest luźno między siedzeniami.",
+        "Odpowiedź C": "Gaśnica zamocowana pod fotelem pasażera.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki jest cel stosowania układu ASR w samochodzie osobowym?",
+        "Odpowiedź A": "Przeciwdziałanie poślizgowi podczas hamowania silnikiem.",
+        "Odpowiedź B": "Zapobieganie blokowaniu kół hamowanych.",
+        "Odpowiedź C": "Przeciwdziałanie poślizgowi kół podczas ruszania.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki jest cel stosowania układu ESP w samochodzie osobowym?",
+        "Odpowiedź A": "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem.",
+        "Odpowiedź B": "Zapobieganie blokowaniu kół hamowanych.",
+        "Odpowiedź C": "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?",
+        "Odpowiedź A": "Wstrzymam się z opatrywaniem.",
+        "Odpowiedź B": "Użyję do opatrunku odzieży poszkodowanego.",
+        "Odpowiedź C": "Poczekam, aż ktoś użyczy swojej apteczki.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kiedy należy założyć opatrunek uciskowy?",
+        "Odpowiedź A": "W przypadku zmiażdżenia kończyny.",
+        "Odpowiedź B": "W przypadku wycieku krwistej wydzieliny z ucha.",
+        "Odpowiedź C": "W przypadku krwotoku.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kierujesz pojazdem w czasie deszczu. Którą z wymienionych czynności powinieneś przede wszystkim wykonać, by jechać bezpieczniej?",
+        "Odpowiedź A": "Wyłączyć system kontroli trakcji.",
+        "Odpowiedź B": "Jechać w koleinach.",
+        "Odpowiedź C": "Zmniejszyć prędkość.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kierujesz samochodem osobowym podczas ulewnego deszczu. Którą z wymienionych czynności należy wykonać po wjechaniu w koleinę wypełnioną wodą?",
+        "Odpowiedź A": "Płynnie zmniejszyć prędkość.",
+        "Odpowiedź B": "Zdecydowanie przyhamować.",
+        "Odpowiedź C": "Zdecydowanie przyspieszyć.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?",
+        "Odpowiedź A": "Hamowanie wyłącznie przy użyciu hamulca ręcznego.",
+        "Odpowiedź B": "Stosowanie opon zimowych.",
+        "Odpowiedź C": "Zdecydowane przyspieszanie.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy zażycie przez prowadzącego pojazd niewielkiej ilości narkotyku wpływa na poprawę zdolności do prawidłowej oceny ryzyka na drodze?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Nie",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Czy kierujący pojazdem po spożyciu alkoholu, może mieć trudności w jednoczesnym wykonywaniu dwóch i więcej czynności?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Tak",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Którą z wymienionych czynności powinieneś wykonać, aby płynnie ruszyć z miejsca?",
+        "Odpowiedź A": "Stopniowo zwalniać pedał sprzęgła.",
+        "Odpowiedź B": "Gwałtownie zwolnić pedał sprzęgła.",
+        "Odpowiedź C": "Najpierw znacznie zwiększyć obroty silnika, następnie szybko zwolnić pedał sprzęgła.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czego nie masz prawa robić, gdy kierujesz samochodem osobowym?",
+        "Odpowiedź A": "Przewozić osób w stanie nietrzeźwości.",
+        "Odpowiedź B": "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku.",
+        "Odpowiedź C": "Używać tempomatu na obszarze zabudowanym.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Którą z wymienionych czynności należy wykonać, kierując samochodem osobowym w nocy podczas mgły?",
+        "Odpowiedź A": "Zmniejszyć prędkość.",
+        "Odpowiedź B": "Włączyć światła drogowe w celu polepszenia widoczności.",
+        "Odpowiedź C": "Jechać bardzo blisko poprzedzającego pojazdu, aby widzieć jego światła pozycyjne.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kierujesz samochodem osobowym. Jak powinieneś postąpić w czasie przejazdu przez rozległą kałużę?",
+        "Odpowiedź A": "Zdecydowanie przyśpieszyć.",
+        "Odpowiedź B": "Gwałtownie przyhamować.",
+        "Odpowiedź C": "Płynnie zmniejszyć prędkość jazdy.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?",
+        "Odpowiedź A": "Patrzeć prosto w reflektory pojazdu nadjeżdżającego z przeciwka.",
+        "Odpowiedź B": "Zmienić światła mijania na drogowe.",
+        "Odpowiedź C": "Patrzeć w prawo od źródła światła pojazdu nadjeżdżającego z przeciwka i wypatrywać tam ewentualnej przeszkody. ",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?",
+        "Odpowiedź A": "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku.",
+        "Odpowiedź B": "Wezwać pomoc drogową.",
+        "Odpowiedź C": "Zatrzymać się, wezwać pomoć medyczną i udzielić pierwszej pomocy poszkodowanemu.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki odstęp należy zachować podczas wymijania samochodem osobowym innego pojazdu?",
+        "Odpowiedź A": "Bezpieczny, ale nie mniejszy niż 1,5 metra.",
+        "Odpowiedź B": "Bezpieczny, uzależniony od szerokości jezdni i warunków ruchu.",
+        "Odpowiedź C": "Bezpieczny, czyli zawsze taki sam.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Podczas wykonywania którego z wymienionych manewrów masz obowiązek zachować odstęp nie mniejszy niż 1 metr od pojazdu?",
+        "Odpowiedź A": "Wymijania samochodu osobowego.",
+        "Odpowiedź B": "Wyprzedzania roweru.",
+        "Odpowiedź C": "Omijania dowolnego pojazdu.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?",
+        "Odpowiedź A": "Bezpieczny, ale nie mniejszy niż 0,8 metra.",
+        "Odpowiedź B": "Bezpieczny, czyli zawsze jednakowy.",
+        "Odpowiedź C": "Bezpieczny, uzależniony od szerokości jezdni i warunków ruchu.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki odstęp należy zachować podczas wyprzedzania samochodu osobowego?",
+        "Odpowiedź A": "Bezpieczny, uzależniony od szerokości jezdni i warunków ruchu.",
+        "Odpowiedź B": "Bezpieczny, ale większy niż 1,5 metra.",
+        "Odpowiedź C": "Bezpieczny, ale mniejszy niż 0,5 metra.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki odstęp należy zachować podczas wyprzedzania motocykla?",
+        "Odpowiedź A": "Bezpieczny, ale nie większy niż 0,5 metra.",
+        "Odpowiedź B": "Bezpieczny, ale nie większy niż 1 metr.",
+        "Odpowiedź C": "Bezpieczny, ale nie mniejszy niż 1 metr.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki odstęp należy zachować podczas wyprzedzania kolumny pieszych?",
+        "Odpowiedź A": "Bezpieczny, ale nie mniejszy niż 0,6 metra.",
+        "Odpowiedź B": "Bezpieczny, ale nie mniejszy niż 0,8 metra.",
+        "Odpowiedź C": "Bezpieczny, ale nie mniejszy niż 1 metr.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak dwukrotne zwiększenie prędkości samochodu osobowego wpływa na długość jego drogi hamowania?",
+        "Odpowiedź A": "Zwiększa dwukrotnie długość drogi hamowania.",
+        "Odpowiedź B": "Zwiększa czterokrotnie długość drogi hamowania.",
+        "Odpowiedź C": "Nie powoduje zmiany długości drogi hamowania.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak duży odstęp od poprzedzającego pojazdu należy utrzymywać, kierując samochodem osobowym poza obszarem zabudowanym w tunelu o długości 600 metrów?",
+        "Odpowiedź A": "Nie mniejszy niż 50 metrów.",
+        "Odpowiedź B": "Nie mniejszy niż 40 metrów.",
+        "Odpowiedź C": "Nie mniejszy niż 30 metrów.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?",
+        "Odpowiedź A": "Czas reakcji kierującego pojazdem.",
+        "Odpowiedź B": "Masa pasażerów.",
+        "Odpowiedź C": "Masa pojazdu.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?",
+        "Odpowiedź A": "Masa pasażera.",
+        "Odpowiedź B": "Prędkość i stan nawierzchni.",
+        "Odpowiedź C": "Masa pojazdu.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy będąc uczestnikiem wypadku drogowego, masz obowiązek udzielenia pomocy rannym nawet, jeśli nie masz kwalifikacji medycznych?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Tak",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Który z wymienionych elementów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?",
+        "Odpowiedź A": "Trójkąt ostrzegawczy.",
+        "Odpowiedź B": "Apteczka.",
+        "Odpowiedź C": "Koło zapasowe.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych elementów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?",
+        "Odpowiedź A": "Apteczka.",
+        "Odpowiedź B": "Gaśnica.",
+        "Odpowiedź C": "Koło zapasowe.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?",
+        "Odpowiedź A": "Świateł do jazdy dziennej.",
+        "Odpowiedź B": "Świateł przeciwmgłowych przednich.",
+        "Odpowiedź C": "Wyłącznie świateł drogowych.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Którą z tych czynności masz obowiązek wykonać podczas wyprzedzania samochodem osobowym we mgle poza obszarem zabudowanym?",
+        "Odpowiedź A": "Dawać krótkotrwałe sygnały świetlne.",
+        "Odpowiedź B": "Dawać krótkotrwałe sygnały dźwiękowe.",
+        "Odpowiedź C": "Włączyć tylne światła przeciwmgłowe, niezależnie od stopnia ograniczenia widoczności.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak należy zachować się podczas wymijania samochodem osobowym w nocy innego pojazdu?",
+        "Odpowiedź A": "Patrzeć prosto w światła pojazdu nadjeżdżającego z przeciwka.",
+        "Odpowiedź B": "Zmienić światła mijania na drogowe.",
+        "Odpowiedź C": "Patrzeć w prawo od źródła światła pojazdu nadjeżdżającego z przeciwka i wypatrywać tam ewentualnej przeszkody. ",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?",
+        "Odpowiedź A": "Tak, w sytuacjach awaryjnych.",
+        "Odpowiedź B": "Nie, ponieważ może to doprowadzić do oślepienia innych kierujących.",
+        "Odpowiedź C": "Tak, jeżeli trzonek źródła światła pasuje do oprawki w reflektorze.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Która z wymienionych czynności jest dozwolona podczas kierowania samochodem osobowym?",
+        "Odpowiedź A": "Korzystanie z nawigacji.",
+        "Odpowiedź B": "Odpinanie pasa bezpieczeństwa.",
+        "Odpowiedź C": "Korzystanie z telefonu wymagającego trzymania słuchawki w ręku.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaka jest dopuszczalna minimalna głębokość bieżnika w oponie niewyposażonej we wskaźnik granicznego jej zużycia?",
+        "Odpowiedź A": "1,6 milimetra.",
+        "Odpowiedź B": "2,6 milimetra.",
+        "Odpowiedź C": "3 milimetry.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Która z wymienionych usterek, uniemożliwia bezpieczne używanie samochodu w ruchu drogowym?",
+        "Odpowiedź A": "Zanieczyszczony wkład filtra powietrza.",
+        "Odpowiedź B": "Przegrzewające się elektrody świec zapłonowych.",
+        "Odpowiedź C": "Przepalona żarówka tylnego lewego kierunkowskazu.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki może być skutek zbyt słabego nacisku na pedał hamulca w samochodzie osobowym?",
+        "Odpowiedź A": "Wydłużenie drogi hamowania.",
+        "Odpowiedź B": "Zablokowanie kół.",
+        "Odpowiedź C": "Utrata sterowności.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Do czego może doprowadzić zbyt mocne hamowanie samochodu osobowego niewyposażonego w system ABS?",
+        "Odpowiedź A": "Do skrócenia o co najmniej połowę drogi hamowania.",
+        "Odpowiedź B": "Do utraty sterowności.",
+        "Odpowiedź C": "Do zniszczenia hamulców.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który ze sposobów hamowania samochodu osobowego wyposażonego w system ABS jest najbardziej efektywny?",
+        "Odpowiedź A": "Pulsacyjne wciskanie pedału hamulca.",
+        "Odpowiedź B": "Szybkie i mocne wciśnięcie pedału hamulca.",
+        "Odpowiedź C": "Wciśnięcie pedału sprzęgła, a następnie pedału hamulca.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?",
+        "Odpowiedź A": "Utrzymać siłę nacisku na pedał hamulca.",
+        "Odpowiedź B": "Zmniejszyć siłę nacisku na pedał hamulca.",
+        "Odpowiedź C": "Zwolnić pedał hamulca.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W którym z przypadków system ABS może pomóc kierującemu pojazdem w utrzymaniu sterowności?",
+        "Odpowiedź A": "Przy hamowaniu, gdy pojazd wpadł w boczny poślizg.",
+        "Odpowiedź B": "Wyłącznie podczas hamowania na prostym odcinku drogi.",
+        "Odpowiedź C": "Wyłącznie podczas hamowania na zakręcie.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki efekt może wystąpić, gdy podczas ruszania na wzniesieniu zbyt wcześnie zwolnisz dźwignię hamulca awaryjnego, w porównaniu ze zwolnieniem pedału sprzęgła?",
+        "Odpowiedź A": "Unieruchomienie silnika.",
+        "Odpowiedź B": "Stoczenie się pojazdu.",
+        "Odpowiedź C": "Gwałtowne ruszenie.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?",
+        "Odpowiedź A": "Zmniejszyć prędkość i czekać, aż lampka zgaśnie.",
+        "Odpowiedź B": "Zatrzymać pojazd i sprawdzić poziom płynu hamulcowego.",
+        "Odpowiedź C": "Kontynuować jazdę i zgłosić ten stan przy najbliższych badaniach okresowych pojazdu.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "O czym ostrzega świecąca się na czerwono w czasie jazdy samochodem osobowym lampka kontrolna układu chłodzenia?",
+        "Odpowiedź A": "O zbyt wysokiej temperaturze płynu chłodniczego.",
+        "Odpowiedź B": "O zbyt niskiej temperaturze płynu chłodniczego.",
+        "Odpowiedź C": "O zbyt niskim poziomie płynu do spryskiwania szyby.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Która z wymienionych okoliczności może świadczyć o złym stanie technicznym samochodu osobowego?",
+        "Odpowiedź A": "Emisja bezbarwnych spalin.",
+        "Odpowiedź B": "Pozostawione na miejscu parkowania ślady wycieków płynów eksploatacyjnych.",
+        "Odpowiedź C": "Zaświecenie się na czerwono lampki kontrolnej ładowania akumulatora przed uruchomieniem silnika.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych przypadków może świadczyć o złym stanie technicznym samochodu osobowego?",
+        "Odpowiedź A": "Emisja czarnych lub niebieskich gęstych spalin.",
+        "Odpowiedź B": "Emisja bezbarwnych spalin.",
+        "Odpowiedź C": "Zaświecenie się na czerwono lampki kontrolnej ciśnienia oleju silnikowego przed uruchomieniem silnika.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W którym z wymienionych przypadków, używanie samochodu osobowego nie zagraża bezpieczeństwu ruchu drogowego?",
+        "Odpowiedź A": "Nadmiernie zużyte klocki lub tarcze hamulcowe.",
+        "Odpowiedź B": "Uszkodzone przednie amortyzatory.",
+        "Odpowiedź C": "Krótkotrwałe użycie koła dojazdowego, gdy jedna z opon uległa uszkodzeniu.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Która z tych czynności zwiększy bezpieczeństwo jazdy, gdy kierujesz samochodem osobowym podczas mgły ograniczającej widoczność do 40 metrów?",
+        "Odpowiedź A": "Włączenie świateł drogowych.",
+        "Odpowiedź B": "Zmniejszenie odstępu od poprzedzającego pojazdu.",
+        "Odpowiedź C": "Włączenie świateł przeciwmgłowych tylnych.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakie jest ryzyko poślizgu pojazdu podczas jazdy w czasie deszczu?",
+        "Odpowiedź A": "Największe w początkowej fazie deszczu.",
+        "Odpowiedź B": "Najmniejsze w początkowej fazie deszczu.",
+        "Odpowiedź C": "Największe w końcowej fazie deszczu.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki wpływ ma prędkość jazdy na kąt widzenia kierującego samochodem osobowym?",
+        "Odpowiedź A": "Wraz ze wzrostem prędkości kąt widzenia zawęża się.",
+        "Odpowiedź B": "Wraz ze wzrostem prędkości kąt widzenia rozszerza się.",
+        "Odpowiedź C": "Nie ma żadnego wpływu.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych czynników może ograniczyć pole widzenia kierującego samochodem osobowym?",
+        "Odpowiedź A": "Używanie klimatyzacji podczas opadów deszczu.",
+        "Odpowiedź B": "Lusterko wewnętrzne.",
+        "Odpowiedź C": "Oślepiające światła innych pojazdów jadących z przeciwka.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych czynników może ograniczyć pole widzenia kierującego samochodem osobowym podczas jazdy nocą?",
+        "Odpowiedź A": "Zmniejszona prędkość.",
+        "Odpowiedź B": "Uszkodzony system ABS.",
+        "Odpowiedź C": "Niewłaściwie ustawione światła.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych czynników ma wpływ na ograniczenie pola widzenia kierującego samochodem osobowym?",
+        "Odpowiedź A": "Mruganie oczami w czasie przerwy w jeździe.",
+        "Odpowiedź B": "15 minut odpoczynku po dwugodzinnej jeździe.",
+        "Odpowiedź C": "Kierowanie pojazdem w stanie nietrzeźwości.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych czynników może powodować ograniczenie pola widzenia kierującego samochodem osobowym?",
+        "Odpowiedź A": "Zbyt nisko lub zbyt wysoko ustawiony fotel kierującego.",
+        "Odpowiedź B": "15 minut odpoczynku po dwugodzinnej jeździe.",
+        "Odpowiedź C": "Okulary przeciwsłoneczne używane w słoneczny dzień.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki wpływ ma prędkość jazdy na kąt widzenia kierującego samochodem osobowym?",
+        "Odpowiedź A": "Wraz ze wzrostem prędkości kąt widzenia jest większy.",
+        "Odpowiedź B": "Wraz ze wzrostem prędkości kąt widzenia jest mniejszy.",
+        "Odpowiedź C": "Nie ma żadnego wpływu.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak powinieneś postąpić, aby rozpędzić samochód osobowy na płaskim odcinku drogi?",
+        "Odpowiedź A": "Wykorzystać maksymalne obroty silnika na każdym biegu.",
+        "Odpowiedź B": "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się.",
+        "Odpowiedź C": "W każdym przypadku zwiększyć biegi o dwa.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jaki sposób wolno Ci przewozić rowery samochodem osobowym?",
+        "Odpowiedź A": "Umieszczone w uchwytach z tyłu pojazdu ograniczającym czytelność tablicy rejestracyjnej.",
+        "Odpowiedź B": "Umieszczone w uchwytach z tyłu pojazdu zasłaniającym jedno światło pojazdu.",
+        "Odpowiedź C": "Umieszczone w uchwytach zamontowanych na bagażniku dachowym.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W którym z wymienionych przypadków regularne wykonywanie badania technicznego pojazdu ma wpływ na jego bezpieczne używanie w ruchu drogowym?",
+        "Odpowiedź A": "Wyłącznie po upływie okresu gwarancji pojazdu.",
+        "Odpowiedź B": "Tylko w okresie gwarancji pojazdu.",
+        "Odpowiedź C": "W całym okresie używania pojazdu.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki jest cel stosowania systemu ABS w samochodzie osobowym?",
+        "Odpowiedź A": "Zapobieganie utracie stabilności i zapewnienie kierowalności pojazdu podczas jego hamowania.",
+        "Odpowiedź B": "Zapobieganie przed wpadnięciem pojazdu w poślizg - niezależnie od jego prędkości i warunków na drodze.",
+        "Odpowiedź C": "Ułatwianie pokonywania zakrętów.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak należy postąpić, podczas jazdy samochodem osobowym po drodze pokrytej śniegiem?",
+        "Odpowiedź A": "Unikać gwałtownych ruchów kierownicą.",
+        "Odpowiedź B": "Odłączyć system kontroli trakcji.",
+        "Odpowiedź C": "Na podjazdach zwiększyć prędkość.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?",
+        "Odpowiedź A": "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia.",
+        "Odpowiedź B": "Tylko lekarz.",
+        "Odpowiedź C": "Tylko uczestnik wypadku drogowego.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak należy postąpić z poszkodowanym w wypadku drogowym, znajdującym się w pojeździe?",
+        "Odpowiedź A": "Należy go ewakuować z pojazdu - w każdym przypadku.",
+        "Odpowiedź B": "Należy go ewakuować z pojazdu - w przypadku stwierdzenia u niego zatrzymania akcji serca.",
+        "Odpowiedź C": "Należy go zawsze pozostawić w pojeździe - do czasu przybycia lekarza.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jesteś uczestnikiem lub świadkiem wypadku drogowego. Które z wymienionych informacji należy podać dzwoniąc pod numer alarmowy?",
+        "Odpowiedź A": "Miejsce zdarzenia oraz liczbę i stan ofiar wypadku.",
+        "Odpowiedź B": "Tylko liczbę pojazdów biorących udział w wypadku.",
+        "Odpowiedź C": "Tylko liczbę ofiar wypadku.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jesteś uczestnikiem lub świadkiem wypadku drogowego. Jak należy postąpić, gdy na poszkodowanym pali się ubranie?",
+        "Odpowiedź A": "Przewrócić osobę na ziemię i ugasić ogień poprzez przykrycie np. kurtką, kocem, płaszczem.",
+        "Odpowiedź B": "Poczekać na przyjazd Straży Pożarnej.",
+        "Odpowiedź C": "Ugasić ogień gaśnicą.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Która z wymienionych awarii, uniemożliwia używanie samochodu osobowego w ruchu drogowym?",
+        "Odpowiedź A": "Niedziałające czujniki parkowania.",
+        "Odpowiedź B": "Niedziałająca klimatyzacja.",
+        "Odpowiedź C": "Niedziałające światła hamowania \"\"stop\"\".",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Które z wymienionych działań należy podjąć w pierwszej kolejności, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna ciśnienia oleju silnikowego?",
+        "Odpowiedź A": "Kontynuować jazdę ze zmniejszoną prędkością.",
+        "Odpowiedź B": "Zwiększyć obroty silnika.",
+        "Odpowiedź C": "Zatrzymać pojazd i wyłączyć silnik.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy numer telefonu 112 jest ogólnopolskim numerem alarmowym dla wszystkich służb ratowniczych?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Tak",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Czy spożyty alkohol wpływa na zmianę pola widzenia kierującego pojazdem?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Tak",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jaką funkcję spełniają poduszki powietrzne?",
+        "Odpowiedź A": "Zmniejszają uszkodzenia pojazdu podczas zderzenia.",
+        "Odpowiedź B": "Zapewniają pełną ochronę kierującego i pasażerów podczas zderzenia.",
+        "Odpowiedź C": "Zmniejszają obrażenia ciała, jakim może ulec kierujący i pasażerowie w wyniku zderzenia.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kiedy masz obowiązek przełączyć światła drogowe na światła mijania?",
+        "Odpowiedź A": "Gdy z przeciwka nadjeżdża inny pojazd.",
+        "Odpowiedź B": "Gdy zaczyna padać deszcz.",
+        "Odpowiedź C": "Gdy wjeżdżasz na obszar zabudowany.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kiedy masz obowiązek przełączyć światła drogowe na światła mijania?",
+        "Odpowiedź A": "Zawsze, gdy widzisz pojazd poprzedzający.",
+        "Odpowiedź B": "Zawsze, gdy istnieje możliwość oślepienia kierującego pojazdem poprzedzającym.",
+        "Odpowiedź C": "Zawsze, gdy widzisz pojedynczego pieszego na jezdni.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Co powinieneś widzieć w dobrze ustawionych lusterkach zewnętrznych, gdy kierujesz samochodem osobowym?",
+        "Odpowiedź A": "Tylko boki pojazdu.",
+        "Odpowiedź B": "Obszar za pojazdem i boki pojazdu.",
+        "Odpowiedź C": "Tylko sąsiedni pas ruchu.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Do czego służą światła pozycyjne pojazdu?",
+        "Odpowiedź A": "Do oświetlania drogi.",
+        "Odpowiedź B": "Do określania pozycji pojazdu.",
+        "Odpowiedź C": "Do sygnalizowania zmiany pasa ruchu.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki może być skutek nieprawidłowo ustawionych reflektorów świateł mijania?",
+        "Odpowiedź A": "Zwiększone zużycie paliwa.",
+        "Odpowiedź B": "Zwiększone zużycie żarówek.",
+        "Odpowiedź C": "Oślepianie kierujących nadjeżdżających z przeciwka.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki może być skutek nieprawidłowo ustawionych reflektorów świateł mijania?",
+        "Odpowiedź A": "Zwiększone zużycie paliwa.",
+        "Odpowiedź B": "Pogorszenie widoczności drogi w nocy.",
+        "Odpowiedź C": "Zwiększone zużycie żarówek.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jadąc zimą spotykasz na poboczu sinego, półprzytomnego, wyziębionego człowieka. Jak należy mu pomóc?",
+        "Odpowiedź A": "Podać mu gorący napój.",
+        "Odpowiedź B": "Podać mu alkohol.",
+        "Odpowiedź C": "Wezwać zespół ratownictwa medycznego, zabrać go do samochodu, okryć i powoli ogrzewać.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak, w przybliżeniu, wzrasta długość drogi hamowania motocykla przy dwukrotnie większej prędkości?",
+        "Odpowiedź A": "Dwukrotnie.",
+        "Odpowiedź B": "Trzykrotnie.",
+        "Odpowiedź C": "Czterokrotnie.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jaki odstęp, kierując motocyklem, powinieneś zachować podczas wyprzedzania poza obszarem zabudowanym?",
+        "Odpowiedź A": "Co najmniej 2 m podczas wyprzedzania pieszego.",
+        "Odpowiedź B": "Co najmniej 2 m podczas wyprzedzania rowerzysty.",
+        "Odpowiedź C": "Co najmniej 1 m podczas wyprzedzania innego motocykla.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Którą z wymienionych czynności powinieneś wykonać przed rozpoczęciem jazdy motocyklem?",
+        "Odpowiedź A": "Sprawdzić wizualnie stan opon motocykla.",
+        "Odpowiedź B": "Przeprowadzić regulację światła mijania.",
+        "Odpowiedź C": "Sprawdzić poziom elektrolitu w akumulatorze.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?",
+        "Odpowiedź A": "Ciągnąć przyczepy lekkiej.",
+        "Odpowiedź B": "Holować innego samochodu osobowego na obszarze zabudowanym.",
+        "Odpowiedź C": "Ciągnąć dzieci na sankach.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki odstęp od poprzedzającego pojazdu masz obowiązek zachować podczas zatrzymania w zatorze drogowym w tunelu?",
+        "Odpowiedź A": "Nie mniejszy niż 3 metry.",
+        "Odpowiedź B": "Nie mniejszy niż 5 metrów.",
+        "Odpowiedź C": "Nie mniejszy niż 10 metrów.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Która z wymienionych czynności jest zabroniona podczas kierowania pojazdem?",
+        "Odpowiedź A": "Obsługiwanie radia.",
+        "Odpowiedź B": "Używanie nawigacji GPS.",
+        "Odpowiedź C": "Rozmawianie przez telefon, który wymaga trzymania słuchawki lub mikrofonu w ręku.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakiej barwy chorągiewką wolno Ci oznaczyć ładunek wystający z tyłu samochodu osobowego?",
+        "Odpowiedź A": "Zieloną.",
+        "Odpowiedź B": "Żółtą.",
+        "Odpowiedź C": "Czerwoną.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?",
+        "Odpowiedź A": "Masy własnej samochodu.",
+        "Odpowiedź B": "Rzeczywistej masy całkowitej samochodu.",
+        "Odpowiedź C": "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?",
+        "Odpowiedź A": "Na autostradzie.",
+        "Odpowiedź B": "Na drodze ekspresowej.",
+        "Odpowiedź C": "W strefie zamieszkania.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jakich warunkach drogowych dozwolone jest używanie łańcuchów przeciwślizgowych?",
+        "Odpowiedź A": "Gdy kierujesz pojazdem w okresie od początku grudnia do końca lutego, niezależnie od tego, czy droga jest pokryta śniegiem.",
+        "Odpowiedź B": "Gdy temperatura powietrza jest mniejsza niż 0 stopni Celsjusza, niezależnie od tego, czy droga jest pokryta śniegiem.",
+        "Odpowiedź C": "Gdy droga jest pokryta śniegiem.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jakich warunkach droga hamowania jest najdłuższa?",
+        "Odpowiedź A": "Na drodze suchej.",
+        "Odpowiedź B": "Na drodze mokrej.",
+        "Odpowiedź C": "Na drodze oblodzonej.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaką funkcję w pojeździe spełnia system przeciwblokujący ABS?",
+        "Odpowiedź A": "Zapobiega poślizgowi kół podczas ruszania.",
+        "Odpowiedź B": "Umożliwia zachowanie kontroli nad pojazdem podczas gwałtownego hamowania.",
+        "Odpowiedź C": "Zawsze skraca drogę hamowania.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy masz obowiązek zabezpieczyć przed stoczeniem się pojazd zaparkowany na wzniesieniu?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Tak",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Czy dozwolone jest przewożenie pasażera znajdującego się w stanie nietrzeźwości?",
+        "Odpowiedź A": "Tak, na tylnym siedzeniu motocykla.",
+        "Odpowiedź B": "Tak, ale tylko w przyczepie ciągniętej przez motocykl.",
+        "Odpowiedź C": "Tak, w bocznym wózku.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Zamierzasz holować motocyklem inny motocykl. W jaki sposób oba pojazdy powinny być ze sobą połączone?",
+        "Odpowiedź A": "Połączeniem giętkim, w sposób wykluczający możliwość odczepienia.",
+        "Odpowiedź B": "Połączeniem giętkim, w sposób umożliwiający łatwe odczepienie.",
+        "Odpowiedź C": "Połączeniem sztywnym.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jakiej wielkości nie ma prawa przekraczać rzeczywista masa całkowita przyczepy ciągniętej przez motocykl?",
+        "Odpowiedź A": "Masy własnej motocykla, jednak nie może być większa niż 100 kg.",
+        "Odpowiedź B": "Rzeczywistej masy całkowitej motocykla.",
+        "Odpowiedź C": "Rzeczywistej masy całkowitej motocykla pomniejszonej o 40%.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jak masz obowiązek oznakować holowany samochód osobowy?",
+        "Odpowiedź A": "Włączyć światła awaryjne.",
+        "Odpowiedź B": "Umieścić z tyłu po lewej stronie ostrzegawczy trójkąt odblaskowy.",
+        "Odpowiedź C": "Włączyć tylne światło przeciwmgłowe.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy jako właściciel pojazdu masz obowiązek wskazać na żądanie uprawnionego organu, komu powierzyłeś pojazd do kierowania lub używania w określonym czasie?",
+        "Odpowiedź A": "Tak, chyba że jest to pojazd wykorzystywany do prowadzenia działalności gospodarczej.",
+        "Odpowiedź B": "Tak, chyba że pojazd został użyty wbrew Twojej woli i wiedzy przez nieznaną osobę, czemu nie mogłeś zapobiec.",
+        "Odpowiedź C": "Nie mam takiego obowiązku.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?",
+        "Odpowiedź A": "Tak, bez żadnych ograniczeń.",
+        "Odpowiedź B": "Tak, gdy tablica jest przesłonięta przez wystający ładunek.",
+        "Odpowiedź C": "Nie, jest to zabronione.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy wolno Ci nakleić na pojeździe znak określający inne państwo niż to, w którym pojazd został zarejestrowany?",
+        "Odpowiedź A": "Tak, bez żadnych ograniczeń.",
+        "Odpowiedź B": "Tak, ale pod warunkiem, że pojazd posiada tablicę rejestracyjną z oznaczeniem „PL”.",
+        "Odpowiedź C": "Nie, jest to zabronione.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Co należy sprawdzić, gdy lampka kontrolna kierunkowskazów zaczęła migać dużo szybciej?",
+        "Odpowiedź A": "Napięcie akumulatora.",
+        "Odpowiedź B": "Sprawność bezpieczników.",
+        "Odpowiedź C": "Sprawność żarówek kierunkowskazów.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kiedy należy sprawdzać poziom oleju w silniku?",
+        "Odpowiedź A": "Przy uruchomionym silniku.",
+        "Odpowiedź B": "Natychmiast po unieruchomieniu silnika.",
+        "Odpowiedź C": "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak powinieneś zachować się, gdy poszkodowany w wypadku odzyska świadomość i chce się oddalić?",
+        "Odpowiedź A": "Nawiązać rozmowę i próbować przekonać go do pozostania na miejscu do chwili przyjazdu służb medycznych.",
+        "Odpowiedź B": "Zalecić wizytę u lekarza pierwszego kontaktu i pozwolić na oddalenie się.",
+        "Odpowiedź C": "Podać leki uspokajające lub przeciwbólowe, a następnie zalecić oczekiwanie na przyjazd służb medycznych.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "W jaki sposób należy opatrzyć silnie krwawiącą ranę?",
+        "Odpowiedź A": "Założyć opatrunek uciskowy z gazy i bandaża.",
+        "Odpowiedź B": "Odkazić ranę jodyną lub gencjaną.",
+        "Odpowiedź C": "Osłonić ranę sterylną gazą.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jak długo, przed rozpoczęciem resuscytacji krążeniowo-oddechowej, powinieneś sprawdzać, czy osoba nieprzytomna oddycha?",
+        "Odpowiedź A": "Przez 5 sekund.",
+        "Odpowiedź B": "Przez 10 sekund.",
+        "Odpowiedź C": "Przez 30 sekund.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Co może być następstwem zbyt wysokiego ciśnienia w oponach motocykla?",
+        "Odpowiedź A": "Zmniejszona skuteczność hamowania.",
+        "Odpowiedź B": "Zwiększona skuteczność hamowania.",
+        "Odpowiedź C": "Istotne zmniejszenie oporu powietrza.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "W jakim terminie należy zawiadomić starostę o nabyciu motocykla?",
+        "Odpowiedź A": "Do 14 dni.",
+        "Odpowiedź B": "Do 30 dni.",
+        "Odpowiedź C": "Do 60 dni.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Do kierowania którym z wymienionych pojazdów uprawnia Cię prawo jazdy kategorii A?",
+        "Odpowiedź A": "Motocyklem z bocznym wózkiem.",
+        "Odpowiedź B": "Czterokołowym pojazdem samochodowym o masie własnej do 550 kg.",
+        "Odpowiedź C": "Pojazdem wolnobieżnym.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Czy wolno Ci przewozić motocyklem jednośladowym pasażera znajdującego się w stanie po użyciu środków działających podobnie do alkoholu?",
+        "Odpowiedź A": "Tak, jeśli uważasz, że nie zagrozi to bezpieczeństwu jazdy.",
+        "Odpowiedź B": "Tak, pod warunkiem, że jedziesz po drodze gruntowej.",
+        "Odpowiedź C": "Nie.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "W jakich warunkach wolno Ci przewozić motocyklem pasażera, który jest w stanie nietrzeźwości?",
+        "Odpowiedź A": "W każdych warunkach.",
+        "Odpowiedź B": "Tylko wtedy, gdy jest on przewożony w bocznym wózku.",
+        "Odpowiedź C": "Tylko wtedy, gdy ograniczysz prędkość jazdy do 30 km/h.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jak zmienia się kąt widzenia motocyklisty wraz ze wzrostem prędkości pojazdu?",
+        "Odpowiedź A": "Pozostaje bez zmian.",
+        "Odpowiedź B": "Zmniejsza się.",
+        "Odpowiedź C": "Zwiększa się.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Który ze sposobów hamowania należy zastosować, jeśli na długim zjeździe zachodzi potrzeba nagłego zmniejszenia prędkości motocykla?",
+        "Odpowiedź A": "Hamowanie wyłącznie hamulcem tylnego koła.",
+        "Odpowiedź B": "Hamowanie wyłącznie hamulcem przedniego koła.",
+        "Odpowiedź C": "Hamowanie silnikiem i jednocześnie hamulcami przedniego i tylnego koła.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Którą technikę jazdy powinieneś zastosować, kierując motocyklem po drodze gruntowej o piaszczystym podłożu?",
+        "Odpowiedź A": "Podniesienie się na ugiętych nogach opartych na podnóżkach i balansowanie ciałem dla zachowania równowagi.",
+        "Odpowiedź B": "Mocne osadzenie się na siedzeniu motocykla i zachowanie stałej prędkości.",
+        "Odpowiedź C": "Zajęcie wyprostowanej pozycji siedzącej i podpieranie się nogami dla zachowania równowagi.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Kierujesz motocyklem. Jakiego zagrożenia powinieneś się spodziewać podczas wymijania autobusu?",
+        "Odpowiedź A": "Podmuchu wiatru z tyłu.",
+        "Odpowiedź B": "Podmuchu wiatru najpierw do środka drogi, a następnie w kierunku jej prawej krawędzi.",
+        "Odpowiedź C": "Podmuchu wiatru najpierw do prawej krawędzi drogi, a następnie w kierunku jej środka.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jaki odstęp od wyprzedzanego pojazdu lub uczestnika ruchu musisz zachować, kierując motocyklem poza obszarem zabudowanym?",
+        "Odpowiedź A": "Co najmniej 1,5 metra, jeśli wyprzedzasz kolumnę pieszych.",
+        "Odpowiedź B": "Co najmniej 2 metry, jeśli wyprzedzasz rower.",
+        "Odpowiedź C": "Co najmniej 1 metr, jeśli wyprzedzasz motocykl.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Czy kierując motocyklem, masz obowiązek używania kasku ochronnego?",
+        "Odpowiedź A": "Tak, ale tylko w przypadku, gdy przewozisz pasażera.",
+        "Odpowiedź B": "Nie, ale jego używanie jest zalecane.",
+        "Odpowiedź C": "Tak, chyba że motocykl jest fabrycznie wyposażony w pasy bezpieczeństwa.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Którą z funkcji powinien przede wszystkim spełniać kombinezon używany przez motocyklistę?",
+        "Odpowiedź A": "Zapewniać estetyczny wygląd jego sylwetki.",
+        "Odpowiedź B": "Zmniejszać wrażliwość na boczne powiewy wiatru.",
+        "Odpowiedź C": "Chronić przed urazami w razie upadku.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jeżeli długość drogi hamowania motocykla, którym kierujesz z prędkością 30 km/h, wynosi około 6 metrów, to zwiększenie prędkości do 60 km/h spowoduje:",
+        "Odpowiedź A": "wydłużenie drogi hamowania do około 12 metrów.",
+        "Odpowiedź B": "wydłużenie drogi hamowania do około 24 metrów.",
+        "Odpowiedź C": "wydłużenie drogi hamowania do około 36 metrów.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Który bieg jest właściwy do rozpoczęcia jazdy samochodem osobowym na suchej nawierzchni?",
+        "Odpowiedź A": "Drugi.",
+        "Odpowiedź B": "Pierwszy.",
+        "Odpowiedź C": "Ten, na którym jazda została zakończona.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jaki sposób, dwukrotne zwiększenie prędkości motocykla, wpływa na długość jego drogi hamowania?",
+        "Odpowiedź A": "Zwiększa dwukrotnie długość drogi hamowania.",
+        "Odpowiedź B": "Zwiększa czterokrotnie długość drogi hamowania.",
+        "Odpowiedź C": "Nie powoduje zmiany długości drogi hamowania.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "W jaki sposób powinieneś obserwować drogę za kierowanym przez siebie motocyklem, gdy zamierzasz wjechać na pas ruchu po swojej lewej stronie?",
+        "Odpowiedź A": "Tylko patrząc w lewe lusterko.",
+        "Odpowiedź B": "Tylko odwracając głowę.",
+        "Odpowiedź C": "Patrząc w lewe lusterko, a w razie konieczności odwracając także głowę.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Czy na jezdni jednokierunkowej dopuszcza się wyprzedzanie pojazdu szynowego z jego lewej strony?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Tak",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Które wymienione czynniki zależne od kierującego pojazdem mają istotny wpływ na jego ostrość widzenia?",
+        "Odpowiedź A": "Temperatura i wilgotność powietrza.",
+        "Odpowiedź B": "Stan nawierzchni jezdni, pora dnia lub nocy.",
+        "Odpowiedź C": "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki wpływ na pole widzenia kierującego pojazdem ma prędkość jazdy?",
+        "Odpowiedź A": "Wraz ze wzrostem prędkości zawęża się pole widzenia.",
+        "Odpowiedź B": "Wraz ze wzrostem prędkości rozszerza się pole widzenia.",
+        "Odpowiedź C": "Prędkość jazdy nie ma wpływu na pole widzenia kierującego.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:",
+        "Odpowiedź A": "zabronione w obszarze zabudowanym.",
+        "Odpowiedź B": "zabronione.",
+        "Odpowiedź C": "zabronione tylko w strefie zamieszkania.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?",
+        "Odpowiedź A": "W sytuacji zjeżdżania ze wzniesienia.",
+        "Odpowiedź B": "W sytuacji zjeżdżania ze wzniesienia drogą o dużym natężeniu ruchu.",
+        "Odpowiedź C": "W sytuacji nagłego przyspieszenia na mokrej nawierzchni.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?",
+        "Odpowiedź A": "W sytuacji zjeżdżania ze wzniesienia drogą o dużym natężeniu ruchu.",
+        "Odpowiedź B": "W sytuacji konieczności wjeżdżania na wzniesienie.",
+        "Odpowiedź C": "W sytuacji gwałtownego ruszania na śliskiej nawierzchni.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ESP, czyli układ stabilizacji toru jazdy?",
+        "Odpowiedź A": "W sytuacji pokonywania ostrego zakrętu i trudności z utrzymaniem oczekiwanego toru jazdy.",
+        "Odpowiedź B": "W sytuacji konieczności nagłego przyspieszenie na drodze gruntowej.",
+        "Odpowiedź C": "W sytuacji konieczności utrzymania stałej prędkości.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ESP, czyli układ stabilizacji toru jazdy?",
+        "Odpowiedź A": "W sytuacji konieczności utrzymania stałej prędkości.",
+        "Odpowiedź B": "W sytuacji konieczności wjeżdżania na wzniesienie.",
+        "Odpowiedź C": "W sytuacji konieczności pokonywania kilku następujących po sobie zakrętów.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?",
+        "Odpowiedź A": "Nie.",
+        "Odpowiedź B": "Tak, ale tylko w obszarze niezabudowanym.",
+        "Odpowiedź C": "Tak, ale tylko w obszarze zabudowanym.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy podczas holowania motocykla powinny być sprawne w nim dwa układy hamulcowe?",
+        "Odpowiedź A": "Tak, ale tylko przy prędkości powyżej 20 km/h.",
+        "Odpowiedź B": "Tak.",
+        "Odpowiedź C": "Nie, wystarczy jeden.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy masz obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Tak",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest:",
+        "Odpowiedź A": "dozwolone bez ograniczeń.",
+        "Odpowiedź B": "zabronione.",
+        "Odpowiedź C": "dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Foteliki bezpieczeństwa dla dzieci oraz inne urządzenia przytrzymujące dla dzieci należy instalować w pojeździe:",
+        "Odpowiedź A": "w sposób bezpieczny i estetyczny.",
+        "Odpowiedź B": "w sposób umożliwiający łatwy dostęp do dziecka.",
+        "Odpowiedź C": "zgodnie z zaleceniami producenta urządzenia.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na:\nPolicjant zatrzyma",
+        "Odpowiedź A": "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km/h na obszarze zabudowanym.",
+        "Odpowiedź B": "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km/h na obszarze zabudowanym.",
+        "Odpowiedź C": "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km/h poza obszarem zabudowanym.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy, gdy kierujący pojazdem przekroczył dopuszczalną prędkość o:",
+        "Odpowiedź A": "więcej niż 50 km/h na obszarze zabudowanym.",
+        "Odpowiedź B": "50 km/h na obszarze zabudowanym.",
+        "Odpowiedź C": "50 km/h poza obszarem zabudowanym.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W przypadku gdy kierujący przekroczył dopuszczalną prędkość o więcej niż 50 km/h na obszarze zabudowanym, starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy na okres:",
+        "Odpowiedź A": "1 miesiąca.",
+        "Odpowiedź B": "2 miesięcy.",
+        "Odpowiedź C": "3 miesięcy.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:",
+        "Odpowiedź A": "dowód rejestracyjny.",
+        "Odpowiedź B": "karta pojazdu.",
+        "Odpowiedź C": "nalepka kontrolna na przedniej szybie.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm na przednim siedzeniu samochodu osobowego, który ma pięć miejsc siedzących?",
+        "Odpowiedź A": " Na kolanach pasażera.",
+        "Odpowiedź B": " W foteliku bezpieczeństwa lub innym urządzeniu przytrzymującym dziecko.",
+        "Odpowiedź C": "W foteliku bezpieczeństwa tyłem do kierunku jazdy, jeżeli pojazd ma aktywną poduszkę powietrzną dla pasażera.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm samochodem osobowym, w którym jest pięć miejsc siedzących?",
+        "Odpowiedź A": "Na przednim siedzeniu bez fotelika lub innego urządzenia przytrzymującego dziecko.",
+        "Odpowiedź B": "Na przednim siedzeniu w innym niż fotelik urządzeniu przytrzymującym dziecko.",
+        "Odpowiedź C": "Na tylnym siedzeniu bez zapiętych pasów bezpieczeństwa.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?",
+        "Odpowiedź A": "W sposób wygodny dla dziecka.",
+        "Odpowiedź B": "W sposób wygodny dla siebie.",
+        "Odpowiedź C": "Zgodnie z zaleceniami producenta urządzenia.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?",
+        "Odpowiedź A": "Tak, jak życzy sobie tego dziecko.",
+        "Odpowiedź B": "W sposób wygodny dla siebie.",
+        "Odpowiedź C": "Zalecany przez producenta urządzenia.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakie warunki powinien spełniać samochód osobowy, którym chcesz przewieźć dziecko, które ma mniej niż trzy lata?",
+        "Odpowiedź A": " Powinien być wyposażony w pasy i fotelik bezpieczeństwa.",
+        "Odpowiedź B": " Może nie mieć pasów bezpieczeństwa.  ",
+        "Odpowiedź C": "Nie musi być wyposażony w pasy i fotelik bezpieczeństwa.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czym powinieneś się kierować wybierając fotelik lub urządzenie przytrzymujące służące do przewozu dziecka?",
+        "Odpowiedź A": "Estetyką.",
+        "Odpowiedź B": "Właściwymi warunkami technicznymi dotyczącymi tych urządzeń.",
+        "Odpowiedź C": "Przede wszystkim wygodą.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakie muszą być spełnione warunki podczas przewożenia dziecka na tylnym siedzeniu samochodu osobowego?",
+        "Odpowiedź A": "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku lub innym urządzeniu przytrzymującym  dziecko.",
+        "Odpowiedź B": "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku.",
+        "Odpowiedź C": "Nie można przekraczać prędkości 50 km/h.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakie musisz spełnić warunki, gdy chcesz przewieźć dziecko na tylnym siedzeniu samochodu osobowego?",
+        "Odpowiedź A": "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym.",
+        "Odpowiedź B": "Nie można przekraczać prędkości 40 km/h.",
+        "Odpowiedź C": "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Co musisz zrobić, żeby przewieźć trzyletnie dziecko na tylnym siedzeniu samochodu osobowego, na którym w fotelikach już siedzi dwoje dzieci i nie ma możliwości zainstalowania trzeciego fotelika?",
+        "Odpowiedź A": "Musisz zabezpieczyć dziecko pasami bezpieczeństwa.",
+        "Odpowiedź B": "Powinieneś posadzić dziecko na kolanach osoby dorosłej. ",
+        "Odpowiedź C": "Musisz zablokować tylne drzwi, uniemożliwiając ich otwarcie od zewnątrz.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Co musisz zrobić gdy chcesz przewieźć trzyletnie dziecko na tylnym siedzeniu samochodu osobowego, na którym w urządzeniach przytrzymujących już siedzi dwoje dzieci i nie ma możliwości zainstalowania trzeciego urządzenia?",
+        "Odpowiedź A": "Powinieneś zapewnić dziecku podstawkę na nogi.",
+        "Odpowiedź B": "Musisz zabezpieczyć dziecko pasami bezpieczeństwa.",
+        "Odpowiedź C": "Powinieneś posadzić dziecko na środku tylnego siedzenia.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?",
+        "Odpowiedź A": "Potwierdzenie opłaty obowiązkowego ubezpieczenia odpowiedzialności cywilnej.",
+        "Odpowiedź B": "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu.",
+        "Odpowiedź C": "W każdym przypadku zaświadczenie o przeprowadzonym badaniu technicznym. ",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?",
+        "Odpowiedź A": "Potwierdzenie opłaty ubezpieczenia AC.",
+        "Odpowiedź B": "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu.",
+        "Odpowiedź C": "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?",
+        "Odpowiedź A": "Dowód rejestracyjny.",
+        "Odpowiedź B": "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu.",
+        "Odpowiedź C": "Świadectwo zgodności z warunkami technicznymi.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?",
+        "Odpowiedź A": "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu.",
+        "Odpowiedź B": "Świadectwo zgodności WE.",
+        "Odpowiedź C": "Dowód rejestracyjny.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?",
+        "Odpowiedź A": "Dokument dopuszczający pojazd do ruchu. ",
+        "Odpowiedź B": "Dokument potwierdzający zawarcie umowy ubezpieczenia od nieszczęśliwych wypadków.",
+        "Odpowiedź C": "Kopię zaświadczenia o przeprowadzonym badaniu technicznym.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?",
+        "Odpowiedź A": "Dowód własności pojazdu.",
+        "Odpowiedź B": "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu.",
+        "Odpowiedź C": "Dokument potwierdzający opłatę skarbową.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?",
+        "Odpowiedź A": "Profesjonalny dowód rejestracyjny.",
+        "Odpowiedź B": "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej.",
+        "Odpowiedź C": "Dokument potwierdzający opłatę za korzystanie z autostrad i dróg ekspresowych.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?",
+        "Odpowiedź A": "Krajowe prawo jazdy.",
+        "Odpowiedź B": "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy.",
+        "Odpowiedź C": "Świadectwo kwalifikacji.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?",
+        "Odpowiedź A": "Orzeczenie lekarskie, jeżeli wykonujesz zarobkowy przewóz osób.",
+        "Odpowiedź B": "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania. ",
+        "Odpowiedź C": "Orzeczenie psychologiczne.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?",
+        "Odpowiedź A": "Orzeczenie psychologiczne, jeżeli wykonujesz zarobkowy przewóz osób.",
+        "Odpowiedź B": "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania.",
+        "Odpowiedź C": "Orzeczenie lekarskie. ",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaki dokument jesteś zobowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu?",
+        "Odpowiedź A": "Dokument potwierdzający uczestnictwo w kursie kwalifikacji wstępnej.",
+        "Odpowiedź B": "Dokument stwierdzający uprawnienie do kierowania pojazdem inny niż wydane w kraju prawo jazdy.",
+        "Odpowiedź C": "Dokument stwierdzający ukończenie kursu z pierwszej pomocy przedmedycznej.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Za które naruszenie przepisów ruchu drogowego policjant zatrzyma prawo jazdy?",
+        "Odpowiedź A": "Za omijanie pojazdu z naruszeniem podwójnej linii ciągłej.",
+        "Odpowiedź B": "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km/h poza obszarem zabudowanym.",
+        "Odpowiedź C": "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km/h na obszarze zabudowanym.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Za które naruszenie przepisów ruchu drogowego policjant zatrzyma prawo jazdy?",
+        "Odpowiedź A": "Za wyprzedzanie z naruszeniem pojedynczej linii ciągłej.",
+        "Odpowiedź B": "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego.",
+        "Odpowiedź C": "Za wymijanie na przejeździe kolejowym.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Za które naruszenie przepisów ruchu drogowego policjant zatrzyma prawo jazdy?",
+        "Odpowiedź A": "Za wyprzedzanie przed przejściem dla pieszych, gdzie ruch jest kierowany.",
+        "Odpowiedź B": "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego.",
+        "Odpowiedź C": "Za wymijanie na przejeździe dla rowerzystów.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Ile czasu jest ważne pokwitowanie zatrzymania polskiego prawa jazdy za przekroczenie prędkości o ponad 50 km/h w obszarze zabudowanym, które wydał Ci policjant?",
+        "Odpowiedź A": "12 godzin.",
+        "Odpowiedź B": "24 godziny.",
+        "Odpowiedź C": "72 godziny.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Ile czasu jest ważne pokwitowanie zatrzymania przez policjanta prawa jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?",
+        "Odpowiedź A": "12 godzin.",
+        "Odpowiedź B": "24 godziny.",
+        "Odpowiedź C": "72 godziny.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przekroczenie prędkości o więcej niż 50 km/h w obszarze zabudowanym?",
+        "Odpowiedź A": "O kolejny miesiąc.",
+        "Odpowiedź B": "O kolejne dwa miesiące.",
+        "Odpowiedź C": "O kolejne trzy miesiące.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jaką decyzję podejmie starosta, jeśli zostałeś zatrzymany do kontroli kierując pojazdem pomimo przedłużeniu okresu zatrzymania prawa jazdy do sześciu miesięcy za przekroczenie prędkości o więcej niż 50 km/h w obszarze  zabudowanym?",
+        "Odpowiedź A": "Przedłuży okres zatrzymania o kolejne trzy miesiące.",
+        "Odpowiedź B": "Przedłuży okres zatrzymania o kolejne cztery miesiące.",
+        "Odpowiedź C": "Cofnie uprawnienie do kierowania pojazdem.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Jaką decyzję podejmie starosta, jeśli zostałeś zatrzymany do kontroli kierując pojazdem pomimo przedłużenia okresu zatrzymania prawa jazdy do sześciu miesięcy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?",
+        "Odpowiedź A": "Przedłuży okres zatrzymania o kolejne trzy miesiące.",
+        "Odpowiedź B": "Przedłuży okres zatrzymania o kolejne cztery miesiące.",
+        "Odpowiedź C": "Cofnie uprawnienie do kierowania pojazdem.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak postąpi policjant, jeżeli podczas kontroli drogowej ujawni, że przekroczyłeś prędkość o więcej niż 50 km/h w obszarze zabudowanym, ale było to związane z ratowaniem ludzkiego życia?",
+        "Odpowiedź A": "Zatrzyma prawo jazdy.",
+        "Odpowiedź B": "Pouczy i skieruje na egzamin kontrolny.",
+        "Odpowiedź C": "Nie zatrzyma prawa jazdy.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jak postąpi policjant, jeżeli podczas kontroli drogowej ujawni, że przekroczyłeś prędkość o więcej niż 50 km/h w obszarze zabudowanym, ale było to związane z ratowaniem ludzkiego życia?",
+        "Odpowiedź A": "Zatrzyma prawo jazdy.",
+        "Odpowiedź B": "Skieruje na dodatkowe szkolenie.",
+        "Odpowiedź C": "Odstąpi od zatrzymania prawa jazdy.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "W jakim przypadku możesz przewozić trzecie dziecko, o wzroście poniżej 135 cm, na tylnym siedzeniu samochodu osobowego lub ciężarowego, przytrzymywane jedynie pasami bezpieczeństwa?",
+        "Odpowiedź A": "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata.",
+        "Odpowiedź B": "Tylko, jeżeli trzecie dziecko ma wzrost co najmniej 100 cm wzrostu.",
+        "Odpowiedź C": "Tylko, jeżeli trzecie dziecko ukończyło 15 lat.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?",
+        "Odpowiedź A": "Jeżeli dziecko ma co najmniej 135 cm wzrostu.",
+        "Odpowiedź B": "Jeżeli w samochodzie tym nie ma możliwości zamontowania fotelika bezpieczeństwa.",
+        "Odpowiedź C": "Jeżeli dziecko ma zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku bezpieczeństwa.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP musi mieć przy sobie i okazywać na żądanie uprawnionego organu?",
+        "Odpowiedź A": "Potwierdzenie opłacenia obowiązkowego ubezpieczenia odpowiedzialności cywilnej właściciela pojazdu.",
+        "Odpowiedź B": "Dowód rejestracyjny.",
+        "Odpowiedź C": "Jeśli kierujący ma uprawnienia do kierowania ograniczone do pojazdu wyposażonego w blokadę alkoholową - zaświadczenie o pozytywnym wyniku badania technicznego w tym zakresie.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy inspektor transportu drogowego podczas kontrolowania pojazdu, który wykonuje transport drogowy, ma prawo weryfikować dane o pojeździe w Centralnej Ewidencji Pojazdów?",
+        "Odpowiedź A": "Tak, w tym zakresie przysługują takie same prawa jak policji.",
+        "Odpowiedź B": "Nie, takie uprawnienia posiada tylko policja.",
+        "Odpowiedź C": "Nie, do weryfikacji danych o pojeździe w Centralnej Ewidencji Pojazdów uprawnione są tylko: policja, straż graniczna i służby celno-skarbowe. ",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kto może zwrócić dowód rejestracyjny, w przypadku jego zatrzymania podczas kontroli ruchu drogowego, w związku ze stwierdzeniem, że pojazd zagraża porządkowi ruchu?",
+        "Odpowiedź A": "Jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania dowodu rejestracyjnego.",
+        "Odpowiedź B": "Straż Miejska.",
+        "Odpowiedź C": "Zarządca drogi.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Na jak długo zostanie zatrzymane prawo jazdy kierowcy, który przekroczył prędkość o więcej niż 50 km/h na obszarze zabudowanym?",
+        "Odpowiedź A": "Na 3 miesięce.",
+        "Odpowiedź B": "Na 6 miesięcy.",
+        "Odpowiedź C": "Na 1 miesiąc.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km/h uprawnia do kierowania pojazdem?",
+        "Odpowiedź A": "Przez okres 24 godzin od chwili zatrzymania prawa jazdy. ",
+        "Odpowiedź B": "Przez okres 7 dni od chwili zatrzymania prawa jazdy.",
+        "Odpowiedź C": "Przez okres 72 godzin od chwili zatrzymania prawa jazdy.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km/h na obszarze zabudowanym?",
+        "Odpowiedź A": "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem.",
+        "Odpowiedź B": "Jeżeli jadący z tyłu kierowca drugim pojazdem za pomocą świateł ostrzegawczych i sygnału dźwiękowego dawał znaki do zwiększenia prędkości.",
+        "Odpowiedź C": "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Chcesz przewieźć dziecko na przednim siedzeniu pojazdu samochodowego wyposażonego w przednią poduszkę dla pasażera, która jest aktywna. W jaki sposób możesz to zrobić?",
+        "Odpowiedź A": "W foteliku bezpieczeństwa tyłem do kierunku jazdy.",
+        "Odpowiedź B": "W foteliku bezpieczeństwa przodem do kierunku jazdy.",
+        "Odpowiedź C": "W innym urządzeniu przytrzymującym dziecko tyłem do kierunku jazdy.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Dokumentem stwierdzającym dopuszczenie do ruchu motocykla jest:",
+        "Odpowiedź A": "dowód rejestracyjny",
+        "Odpowiedź B": "prawo jazdy",
+        "Odpowiedź C": "dowód osobisty",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Dokumentem stwierdzającym posiadanie uprawnienia do kierowania motocyklem jest:",
+        "Odpowiedź A": "Ważne prawo jazdy stosownie do rodzaju motocykla. ",
+        "Odpowiedź B": "Wizerunek prawa jazdy w aplikacji mDokumenty.",
+        "Odpowiedź C": "Wydane w kraju pozwolenie czasowe.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Do kierowania którym z wymienionych pojazdów uprawnia prawo jazdy kategorii A1?",
+        "Odpowiedź A": "Pojazdem wolnobieżnym. ",
+        "Odpowiedź B": "Motocyklem trójkołowym o mocy nieprzekraczającej 15 kW.",
+        "Odpowiedź C": "Czterokołowcem.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Posiadacz prawa jazdy kategorii A1 może kierować m. in.:",
+        "Odpowiedź A": "Pojazdem wolnobieżnym.",
+        "Odpowiedź B": "Motocyklem o mocy nieprzekraczającej 45kW i stosunku mocy do masy własnej nieprzekraczającym 0,2 kW/kg.",
+        "Odpowiedź C": "Czterokołowcem lekkim.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Osoba posiadająca prawo jazdy kategorii AM, A1, A2, A jest zobowiązana zawiadomić starostę o zniszczeniu tego dokumentu w stopniu powodującym nieczytelność w terminie:",
+        "Odpowiedź A": "30 dni od zaistnienia tego zdarzenia; ",
+        "Odpowiedź B": "33 dni od zaistnienia tego zdarzenia; ",
+        "Odpowiedź C": "14 dni od zaistnienia tego zdarzenia.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy kategorii A na okres 3 miesięcy, nadając jej rygor natychmiastowej wykonalności, jeżeli:",
+        "Odpowiedź A": "Kierujący motocyklem na obszarze zabudowanym przekroczył dopuszczalną prędkość o więcej niż 50 km/h.",
+        "Odpowiedź B": "Kierujący motocyklem na obszarze zabudowanym przekroczył dopuszczalną prędkość o 45 km/h.",
+        "Odpowiedź C": "Kierujący motocyklem na obszarze zabudowanym przekroczył dopuszczalną prędkość o 40 km/h.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy kat. A na okres 3 miesięcy, nadając jej rygor natychmiastowej wykonalności, jeżeli kierujący motocyklem porusza się na obszarze zabudowanym po drodze, na której występuje ograniczenie prędkości do 40 km/h:",
+        "Odpowiedź A": "z prędkością przekraczającą 90 km/h;",
+        "Odpowiedź B": "z prędkością 80 km/h;",
+        "Odpowiedź C": "z prędkością 70 km/h.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy kat. A na okres 3 miesięcy, nadając jej rygor natychmiastowej wykonalności, jeżeli kierujący motocyklem w strefie ograniczonej prędkości do 30 km/h:",
+        "Odpowiedź A": "porusza się z prędkością przekraczającą 80 km/h;",
+        "Odpowiedź B": "porusza się z prędkością 70 km/h;",
+        "Odpowiedź C": "porusza się z prędkością 60 km/h.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy kat. A na okres 3 miesięcy, nadając jej rygor natychmiastowej wykonalności, jeżeli:",
+        "Odpowiedź A": "kierujący motocyklem przewozi osoby w liczbie przekraczającej liczbę miejsc określoną w dowodzie rejestracyjnym motocykla;",
+        "Odpowiedź B": "kierujący motocyklem porusza się w ciągu dnia na obszarze zabudowanym z prędkością 90 km/h;",
+        "Odpowiedź C": "kierujący motocyklem porusza się na drodze ekspresowej z prędkością 180 km/h.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jeżeli osoba kierowała motocyklem, pomimo wydania decyzji administracyjnej o zatrzymaniu jej prawa jazdy na okres 3 miesięcy, to:",
+        "Odpowiedź A": "starosta wydaje decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy, do sześciu miesięcy;",
+        "Odpowiedź B": "starosta wydaje decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy, do dziewięciu miesięcy;",
+        "Odpowiedź C": "starosta wydaje decyzję administracyjną o przedłużeniu okresu zatrzymania prawa jazdy do trzech miesięcy.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jeżeli osoba kierowała motocyklem, pomimo wydania decyzji administracyjnej o zatrzymaniu jej prawa jazdy na okres 3 miesięcy, to:",
+        "Odpowiedź A": "starosta wydaje decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy, do 6 miesięcy;",
+        "Odpowiedź B": "starosta wydaje decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy, do 12 miesięcy;",
+        "Odpowiedź C": "starosta wydaje decyzję administracyjną o cofnięciu uprawnień.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Jeżeli starosta wydał decyzję administracyjną o zatrzymaniu prawa jazdy kat. A na okres 3 miesięcy, to z uwagi na brak obowiązku posiadania podczas jazdy motocyklem prawa jazdy:",
+        "Odpowiedź A": "możesz kierować motocyklem tylko w granicach właściwego starostwa;",
+        "Odpowiedź B": "możesz kierować motocyklem tylko w granicach miejscowości stałego zamieszkania;",
+        "Odpowiedź C": "nie wolno Ci kierować motocyklem przez okres zatrzymania prawa jazdy.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Co grozi kierowcy, który samochodem ciężarowym przewozi o trzy osoby więcej od liczby miejsc wpisanej w dowodzie rejestracyjnym pojazdu?",
+        "Odpowiedź A": "Zatrzymanie prawa jazdy na okres 3 miesięcy.",
+        "Odpowiedź B": "Zatrzymanie prawa jazdy na okres 3 miesięcy i kontrolne sprawdzenie kwalifikacji.",
+        "Odpowiedź C": "Zatrzymanie prawa jazdy na okres 6 miesięcy.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Na jakiej drodze obowiązuje kierującego zachowanie ściśle określonego minimalnego odstępu od pojazdu poprzedzającego?",
+        "Odpowiedź A": "Na drodze ekspresowej.",
+        "Odpowiedź B": "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu.",
+        "Odpowiedź C": "Na drodze jednojezdniowej poza obszarem zabudowanym.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaka jest dopuszczalna prędkość pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla kierującego?",
+        "Odpowiedź A": "40 km/h na obszarze zabudowanym.",
+        "Odpowiedź B": "60 km/h poza obszarem zabudowanym.",
+        "Odpowiedź C": "30 km/h bez względu na obszar w jakim się porusza.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaka jest wymagana minimalna odległość między zorganizowanymi kolumnami motocykli poruszającymi się autostradą?",
+        "Odpowiedź A": "200 m.",
+        "Odpowiedź B": "Równa połowie prędkości w km/h wyrażonej w metrach pierwszego motocyklisty na czele drugiej kolumny.",
+        "Odpowiedź C": "500 m.",
+        "Poprawna odp": "C",
+        "Media": "",
+        "Kategorie": "A"
+    },
+    {
+        "Pytanie": "Z jaką prędkością wolno poruszać się po autostradzie kierując samochodem osobowym?",
+        "Odpowiedź A": "Zapewniającą panowanie nad pojazdem z uwzględnieniem warunków, w jakich ruch się odbywa, nie wyższą niż 140 km/h.",
+        "Odpowiedź B": "Uwzględniającą warunki atmosferyczne, w jakich ruch się odbywa / śnieżyca, ulewa itp./, nie mniejszą niż 40 km/h.",
+        "Odpowiedź C": "Dowolną zapewniającą panowanie nad pojazdem.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Jaka jest dopuszczalna prędkość czterokołowca na obszarze zabudowanym?",
+        "Odpowiedź A": "50 km/h bez względu na jego dopuszczalną masę całkowitą.",
+        "Odpowiedź B": "40 km/h, jeżeli jego dopuszczalna masa całkowita przekracza 3,5 t.",
+        "Odpowiedź C": "20 km/h.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Z jaką maksymalną dopuszczalną prędkością możesz holować inny pojazd?",
+        "Odpowiedź A": "50 km/h w obszarze zabudowanym.",
+        "Odpowiedź B": "60 km/h poza obszarem zabudowanym.",
+        "Odpowiedź C": "80 km/h na drodze dwujezdniowej o co najmniej dwóch pasach przeznaczonych dla każdego kierunku ruchu.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Po spełnieniu, którego z wymienionych warunków można przewozić samochodem osobowym, poza fotelikiem bezpieczeństwa lub innym urządzeniem przytrzymującym, dziecko mające mniej niż 150 cm wzrostu?",
+        "Odpowiedź A": "Prędkość pojazdu nie przekroczy 40 km/h. ",
+        "Odpowiedź B": "Dziecko posiada zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku lub innym urządzeniu.",
+        "Odpowiedź C": "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kierujący pojazdem widząc osobę o widocznej ograniczonej sprawności ruchowej, która przechodzi przez jezdnię poza przejściem dla pieszych:",
+        "Odpowiedź A": "ma obowiązek zatrzymania pojazdu w celu umożliwienia jej przejścia,",
+        "Odpowiedź B": "powinien użyć sygnału dźwiękowego,",
+        "Odpowiedź C": "może przejechać obok pieszego, który wolno się porusza.",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Kierujący pojazdem parkując obok miejsca przeznaczonego dla pojazdu osoby niepełnosprawnej:",
+        "Odpowiedź A": "powinien zostawić jedno wolne stanowisko postojowe,",
+        "Odpowiedź B": " jest obowiązany stosować sposób postoju wskazany znakami drogowymi,",
+        "Odpowiedź C": "może zająć część miejsca postojowego przeznaczonego dla pojazdu osoby niepełnosprawnej, ponieważ posiada ono większe wymiary niż inne stanowiska postojowe.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba:",
+        "Odpowiedź A": "przewożąca dziecko w foteliku,",
+        "Odpowiedź B": "niepełnosprawna przewożona w wózku inwalidzkim,",
+        "Odpowiedź C": "która czuje się skrępowana pasami.",
+        "Poprawna odp": "B",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Widząc osobę z białą laską przechodzącą przez jezdnię należy:",
+        "Odpowiedź A": "zatrzymać pojazd w celu umożliwienia jej przejścia",
+        "Odpowiedź B": "użyć sygnału dźwiękowego, jeśli przechodzi poza wyznaczonym przejściem dla pieszych",
+        "Odpowiedź C": "w każdym przypadku zmienić bieg na wyższy",
+        "Poprawna odp": "A",
+        "Media": "",
+        "Kategorie": "B"
+    },
+    {
+        "Pytanie": "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Nie",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Czy dojeżdżając do przejścia dla pieszych, na które wchodzi osoba niepełnosprawna, używająca specjalnego znaku lub osoba o widocznej ograniczonej sprawności ruchowej, powinieneś wziąć pod uwagę, że będziesz musiał zatrzymać pojazd?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Tak",
+        "Media": "",
+        "Kategorie": "A,B"
+    },
+    {
+        "Pytanie": "Czy podczas przewozu osoby niepełnosprawnej legitymującej się kartą parkingową możesz przekraczać dopuszczalną prędkość o nie więcej niż 10km/h?",
+        "Odpowiedź A": "",
+        "Odpowiedź B": "",
+        "Odpowiedź C": "",
+        "Poprawna odp": "Nie",
+        "Media": "",
+        "Kategorie": "B"
+    }
+]
